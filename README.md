@@ -1,4 +1,5 @@
 # facebook-system-design-interview-platform
+A curated guide and evaluation of tools, strategies, and platforms to help you prepare for Meta’s system design interviews.
 # How to Choose the Right Facebook System Design Interview Platform
 
 Imagine this: you’re in a design review, your diagram’s on the big screen, and a senior engineer is quietly dismantling your architecture decision by decision. That’s pretty much what the **Facebook system design interview** feels like — not a quiz, not a trivia game, but a real-world architecture challenge under pressure.
